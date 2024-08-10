@@ -1,7 +1,7 @@
 # mit_project1_travleplanner
  
 <br>
-Name : Rushikesh Gaikwad <br>
+Name : Vaishnavi Mule <br>
 year : 2nd<br>
 project : 1st  ( subject : web programming)<br>
 Domain : Travel Planner <br>
